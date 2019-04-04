@@ -1,0 +1,8 @@
+beakerx
+graphviz
+jupyter
+jupyterlab
+numpy
+python-graphviz
+scikit-learn
+tornado<6
