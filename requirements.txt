@@ -1,7 +1,6 @@
 beakerx
 graphviz
 jupyter
-jupyterlab
 matplotlib
 numpy
 python-graphviz
@@ -12,3 +11,4 @@ scikit-learn
 seaborn
 simplegeneric
 tornado<6
+tzlocal
