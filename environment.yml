@@ -5,7 +5,6 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - beakerx
   - graphviz
   - jupyter
   - matplotlib
