@@ -17,6 +17,5 @@ dependencies:
   - scikit-learn
   - simplegeneric
   - seaborn
-  - tornado<6
   - tzlocal
 

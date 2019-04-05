@@ -9,5 +9,4 @@ rpy2
 scikit-learn
 seaborn
 simplegeneric
-tornado<6
 tzlocal
