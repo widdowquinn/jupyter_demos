@@ -3,3 +3,6 @@
 
 # exclude macOS-specific files
 .DS_Store
+
+# exclude .vscode settings
+.vscode/
