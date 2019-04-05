@@ -5,6 +5,8 @@ jupyterlab
 matplotlib
 numpy
 python-graphviz
+r-irkernel
+rpy2
 scikit-learn
 seaborn
 tornado<6
