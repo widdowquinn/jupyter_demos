@@ -4,10 +4,10 @@ This repository contains sample Jupyter notebooks for demonstrations.
 
 ## Installation
 
-Create a new `conda` environment
+1 - Create a new `conda` environment
 
 ```bash
-1 - conda env create -f environment.yml
+conda env create -f environment.yml
 ```
 
 2 - Activate the environment
