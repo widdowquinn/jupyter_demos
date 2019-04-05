@@ -16,6 +16,6 @@ dependencies:
   - rpy2
   - scikit-learn
   - seaborn
-  - tornado
+  - tornado<6
   - tzlocal
 
