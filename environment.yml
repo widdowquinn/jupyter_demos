@@ -15,6 +15,7 @@ dependencies:
   - r-irkernel
   - rpy2
   - scikit-learn
+  - simplegeneric
   - seaborn
   - tornado<6
   - tzlocal
