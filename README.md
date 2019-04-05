@@ -19,7 +19,7 @@ conda activate jupyter_demos
 3 - Link the `R` kernel to Jupyter in this environment
 
 ```bash
-Rscript link_R_to_jupyter.R
+Rscript install.R
 ```
 
 4 - Start the notebook server
