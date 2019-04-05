@@ -10,4 +10,5 @@ r-irkernel
 rpy2
 scikit-learn
 seaborn
+simplegeneric
 tornado<6
