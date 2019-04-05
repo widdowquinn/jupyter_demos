@@ -30,9 +30,10 @@ jupyter notebook
 
 ### Removing the environment
 
-Use the `conda  remove` command:
+Deactivate the environment, and use the `conda remove` command:
 
 ```bash
+conda deactivate
 conda remove --name jupyter_demos --all
 ```
 
