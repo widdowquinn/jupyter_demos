@@ -5,6 +5,7 @@ jupyterlab
 matplotlib
 numpy
 python-graphviz
+r-essentials
 r-irkernel
 rpy2
 scikit-learn
