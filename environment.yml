@@ -16,4 +16,3 @@ dependencies:
   - scipy
   - seaborn
   - tornado<6
-prefix: /Users/lpritc/anaconda3/envs/jupyter_demos
