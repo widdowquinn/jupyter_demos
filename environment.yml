@@ -4,16 +4,16 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - beakerx=1.3.0
-  - jupyter=1.0.0
-  - jupyterlab=0.35.4
-  - matplotlib=3.0.3
-  - numpy=1.16.2
-  - python-graphviz=0.10.1
-  - r-irkernel=0.8.15
-  - rpy2=2.9.4
-  - scikit-learn=0.20.3
-  - scipy=1.2.1
-  - seaborn=0.9.0
-  - tornado=5.1.1
+  - beakerx
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - python-graphviz
+  - r-irkernel
+  - rpy2
+  - scikit-learn
+  - scipy
+  - seaborn
+  - tornado<6
 prefix: /Users/lpritc/anaconda3/envs/jupyter_demos
