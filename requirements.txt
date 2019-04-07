@@ -1,3 +1,4 @@
+beakerx
 graphviz
 jupyter
 matplotlib
