@@ -6,11 +6,11 @@ channels:
   - defaults
 dependencies:
   - python=3.6.7
+  - numpy
   - beakerx=1.3.0
   - graphviz
   - jupyter
   - matplotlib
-  - numpy
   - pandas
   - python-graphviz
   - r-essentials
