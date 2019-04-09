@@ -11,5 +11,13 @@ dependencies:
   - pandas=0.24.2
   - openpyxl=2.6.1
   - tornado=5.1.1
-
-
+  - graphviz
+  - matplotlib
+  - python-graphviz
+  - r-essentials
+  - r-irkernel
+  - rpy2
+  - scikit-learn
+  - simplegeneric
+  - seaborn
+  - tzlocal
