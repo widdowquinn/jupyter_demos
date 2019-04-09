@@ -1,9 +1,9 @@
 name: jupyter_demos
 channels:
+  - defaults
   - r
   - conda-forge
   - bioconda
-  - defaults
 dependencies:
   - python=3.6.7
   - beakerx=1.3.0
