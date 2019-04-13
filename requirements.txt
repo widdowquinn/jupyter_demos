@@ -1,4 +1,5 @@
 beakerx
+dask
 graphviz
 ipywidgets
 jupyter

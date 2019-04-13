@@ -6,3 +6,6 @@
 
 # exclude .vscode settings
 .vscode/
+
+# exclude dask graphical output
+mydask.png
